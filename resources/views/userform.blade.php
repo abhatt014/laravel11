@@ -53,7 +53,7 @@
         border: orange 1px solid;
         height:35px;
         width:200px
-        border-radius:2px
+       
     }
     .input-wrapper{
         margin:10px;
@@ -63,8 +63,6 @@
         border: orange 1px solid;
         height:35px;
         width:200px
-        border-radius:2px
-        cursor:pointer;
     }
     span{
         color:red;
