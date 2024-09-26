@@ -7,7 +7,8 @@ use Illuminate\Http\Request;
 class AboutController extends Controller
 {
     function aboutHome(){
-        return view('about');
+        $users = ['amit','bittu','sittu'];
+        return view('about',['a'=>$users]);
     }
 
 }

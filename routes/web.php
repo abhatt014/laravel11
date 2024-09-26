@@ -13,3 +13,4 @@ Route::get('admin',function (){
 Route::get('user',[UserController::class,'showUser']);
 Route::get('user/{name}',[UserController::class,'getUserName']);
 Route::get('about',[AboutController::class,'aboutHome']);
+Route::view('userform','userform');
