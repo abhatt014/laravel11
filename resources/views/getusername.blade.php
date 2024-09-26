@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>TESTING..............</h1>
+    <h1>Print username {{$name}}</h1>
 </body>
 </html>

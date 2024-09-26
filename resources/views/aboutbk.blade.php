@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    About Page
+    ABOUT PAGE 
+    <h1> {{$name}} </h1>
+    <a href="/">Welcome page</a>
 </body>
 </html>

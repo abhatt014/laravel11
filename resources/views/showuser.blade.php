@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    About Page
+    <h1>UserController->View</h1>
 </body>
 </html>
